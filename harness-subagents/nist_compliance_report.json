@@ -1,0 +1,27 @@
+{
+  "framework": "NIST CSF 2.0",
+  "timestamp": "2026-03-07T05:41:49.009620",
+  "functions": {
+    "Identify": {
+      "status": "Initial",
+      "score": 25
+    },
+    "Protect": {
+      "status": "Initial",
+      "score": 20
+    },
+    "Detect": {
+      "status": "Initial",
+      "score": 15
+    },
+    "Respond": {
+      "status": "Initial",
+      "score": 10
+    },
+    "Recover": {
+      "status": "Initial",
+      "score": 5
+    }
+  },
+  "overall_score": 15
+}

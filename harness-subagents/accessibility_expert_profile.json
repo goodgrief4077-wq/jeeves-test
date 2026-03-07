@@ -1,0 +1,30 @@
+{
+    "agent_type": "Accessibility Expert",
+    "description": "Specialized agent for WCAG compliance and inclusive design",
+    "capabilities": [
+        "Accessibility standards compliance (WCAG 2.1/2.2)",
+        "Usability testing for diverse user groups",
+        "Screen reader compatibility validation",
+        "Color contrast and readability assessment",
+        "Keyboard navigation testing",
+        "Assistive technology compatibility"
+    ],
+    "tools": [
+        "Accessibility validators (axe-core, WAVE)",
+        "Screen reader emulators",
+        "Color contrast checkers",
+        "Usability testing frameworks",
+        "Compliance checkers"
+    ],
+    "workflow": {
+        "baseline_assessment": "Initial accessibility audit",
+        "compliance_implementation": "Implement accessibility improvements",
+        "user_testing": "Validate with diverse user scenarios",
+        "continuous_monitoring": "Ongoing accessibility validation"
+    },
+    "collaboration_protocols": {
+        "design_review": "Coordinate accessibility improvements with Harness Architect",
+        "performance_impact": "Assess accessibility impact on performance",
+        "security_considerations": "Ensure accessibility doesn't compromise security"
+    }
+}

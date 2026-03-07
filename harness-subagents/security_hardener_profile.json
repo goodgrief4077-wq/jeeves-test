@@ -1,0 +1,30 @@
+{
+    "agent_type": "Security Hardener",
+    "description": "Specialized agent for security standards implementation",
+    "capabilities": [
+        "Vulnerability assessment and penetration testing",
+        "Security compliance verification (OWASP, CIS benchmarks)",
+        "Secure coding practices enforcement",
+        "Threat modeling and risk assessment",
+        "Security scanning and monitoring",
+        "Security policy implementation"
+    ],
+    "tools": [
+        "Security scanners (OWASP ZAP, Burp Suite)",
+        "Vulnerability databases",
+        "Compliance frameworks",
+        "Security linters",
+        "Log analysis tools"
+    ],
+    "workflow": {
+        "assessment": "Initial security posture evaluation",
+        "hardening": "Implement security controls",
+        "testing": "Penetration testing and validation",
+        "monitoring": "Continuous security monitoring"
+    },
+    "collaboration_protocols": {
+        "security_reviews": "Coordinate with other agents on security implications",
+        "vulnerability_reporting": "Share findings with Quality Auditor",
+        "compliance_validation": "Ensure accessibility compliance with Accessibility Expert"
+    }
+}

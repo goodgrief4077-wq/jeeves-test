@@ -1,0 +1,30 @@
+{
+    "agent_type": "Performance Specialist",
+    "description": "Specialized agent for optimization and speed improvements",
+    "capabilities": [
+        "Performance profiling and bottleneck identification",
+        "Algorithm optimization and efficiency improvements",
+        "Resource utilization optimization",
+        "Load testing and scalability assessment",
+        "Caching strategy implementation",
+        "Database query optimization"
+    ],
+    "tools": [
+        "Performance profilers (cProfile, py-spy)",
+        "Benchmarking suites",
+        "Monitoring tools",
+        "Load testing frameworks",
+        "Database query analyzers"
+    ],
+    "workflow": {
+        "profiling": "Identify performance bottlenecks",
+        "optimization": "Implement performance improvements",
+        "validation": "Verify performance gains",
+        "baseline_comparison": "Compare against quality benchmarks"
+    },
+    "collaboration_protocols": {
+        "performance_metrics": "Share optimization results with Quality Auditor",
+        "security_review": "Coordinate optimizations with Security Hardener",
+        "accessibility_check": "Ensure performance doesn't compromise accessibility"
+    }
+}

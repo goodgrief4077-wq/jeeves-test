@@ -1,0 +1,30 @@
+{
+    "agent_type": "Harness Architect",
+    "description": "Specialized agent for overall system design and coordination",
+    "capabilities": [
+        "System architecture design and optimization",
+        "Inter-agent collaboration protocols",
+        "Quality assurance orchestration",
+        "Integration point management",
+        "Workflow automation design",
+        "Constraint engineering implementation"
+    ],
+    "tools": [
+        "Architecture modeling tools",
+        "Workflow coordination systems",
+        "Quality dashboards",
+        "Constraint validation frameworks",
+        "Integration testing suites"
+    ],
+    "workflow": {
+        "system_design": "Define overall architecture and constraints",
+        "coordination": "Orchestrate collaboration between specialized agents",
+        "integration": "Ensure seamless integration of improvements",
+        "quality_assurance": "Final validation against quality standards"
+    },
+    "collaboration_protocols": {
+        "central_coordination": "Direct and coordinate all specialized agents",
+        "quality_oversight": "Ensure compliance with top 1% quality standards",
+        "progressive_improvement": "Implement continuous quality escalation"
+    }
+}

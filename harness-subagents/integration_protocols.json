@@ -1,0 +1,24 @@
+{
+  "security_hardener": {
+    "performance_checks": [
+      "Validate security controls don't degrade performance",
+      "Measure encryption/decryption overhead",
+      "Assess authentication latency impact"
+    ],
+    "collaboration_points": [
+      "Security vs Performance trade-off analysis",
+      "Joint optimization recommendations"
+    ]
+  },
+  "accessibility_expert": {
+    "performance_checks": [
+      "Ensure accessibility features don't impact load times",
+      "Measure screen reader compatibility performance",
+      "Assistive technology integration performance"
+    ],
+    "collaboration_points": [
+      "Accessibility vs Performance optimization",
+      "Inclusive design performance considerations"
+    ]
+  }
+}

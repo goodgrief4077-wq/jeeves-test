@@ -1,0 +1,34 @@
+{
+    "objective_quality_comparison": {
+        "skill_integration": "harness-engineering-implementation",
+        "comparison_methodology": "conservative_benchmarking",
+        "quality_tiers": {
+            "top_1_percent": {
+                "threshold": 95,
+                "requirements": [
+                    "multiple_industry_benchmarks",
+                    "cross_validation_required", 
+                    "mandatory_disclaimers"
+                ]
+            },
+            "top_10_percent": {
+                "threshold": 90,
+                "requirements": [
+                    "industry_standard_compliance",
+                    "validation_required",
+                    "improvement_planning"
+                ]
+            }
+        },
+        "penalty_triggers": [
+            "quality_overstatement",
+            "missing_disclaimers", 
+            "unverified_claims"
+        ],
+        "collaboration_enforcement": [
+            "multi_agent_validation",
+            "shared_memory_updates",
+            "cross_platform_tracking"
+        ]
+    }
+}

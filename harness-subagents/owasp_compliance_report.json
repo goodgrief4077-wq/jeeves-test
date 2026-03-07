@@ -1,0 +1,15 @@
+{
+  "framework": "OWASP ASVS v4.0.3",
+  "timestamp": "2026-03-07T05:41:48.769215",
+  "categories": {},
+  "overall_score": 0,
+  "compliance_level": "Initial Assessment",
+  "security_headers": {
+    "Development Server": {
+      "error": "Service not reachable"
+    },
+    "Application Server": {
+      "error": "Service not reachable"
+    }
+  }
+}

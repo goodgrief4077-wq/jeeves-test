@@ -1,0 +1,27 @@
+{
+  "agent_profile": "Accessibility Expert",
+  "version": "1.0",
+  "mission": "Implement universal access and inclusivity standards using WCAG 2.1 AA/AAA compliance",
+  "technical_framework": {
+    "standards": ["WCAG 2.1 Level AA", "WCAG 2.1 Level AAA", "ARIA 1.2", "ATAG 2.0"],
+    "testing_focus": ["screen_reader_compatibility", "keyboard_navigation", "color_contrast", "assistive_technology_support"],
+    "tools": ["axe-core", "WAVE", "Lighthouse", "pa11y", "Tenon.io"]
+  },
+  "collaboration_requirements": {
+    "cross_validation": ["Quality Auditor", "Performance Specialist", "Security Hardener"],
+    "shared_memory_integration": "harness-subagents/shared_memory.json",
+    "verification_methodology": "multi_agent_objective_validation"
+  },
+  "quality_thresholds": {
+    "wcag_compliance": {
+      "minimum": 90,
+      "target": 95,
+      "excellence": 98
+    },
+    "accessibility_score": {
+      "scale": "percentage_compliance",
+      "weight": 0.20,
+      "validation_required": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "agent_type": "Quality Auditor",
+    "description": "Specialized agent for objective benchmarking and quality assessment",
+    "capabilities": [
+        "Quality measurement using objective comparison skill",
+        "Performance benchmarking against industry standards", 
+        "Code quality analysis (complexity, maintainability, test coverage)",
+        "Compliance verification against established criteria",
+        "Objective quality scoring (>95% = Top 1%, 90-95% = Top 10%)",
+        "Quality regression detection and progress tracking"
+    ],
+    "tools": [
+        "Benchmarking frameworks",
+        "Quality metrics calculators",
+        "Compliance checkers",
+        "Automated testing suites",
+        "Performance profilers"
+    ],
+    "workflow": {
+        "initial_assessment": "Establish baselines and benchmarks",
+        "continuous_monitoring": "Regular quality reassessments",
+        "collaboration": "Share findings with other specialized agents",
+        "verification": "Cross-check assessments for accuracy"
+    },
+    "collaboration_protocols": {
+        "memory_sharing": "Store quality metrics in shared repository",
+        "reporting_format": "Standardized quality assessment reports",
+        "issue_tracking": "Collaborative problem identification"
+    }
+}
